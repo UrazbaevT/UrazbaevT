@@ -2,8 +2,6 @@
 
 I'm Tilek(he/him) - I'm a future android developer, mentor, realist and high school student. I'm interested in developing, upgrading and creating a new android application. In my spare time, I work on random projects from Figma.
 
-- 🌱 I’m currently learning KOTLIN
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,idea,java,kotlin,firebase,postman" />
